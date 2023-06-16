@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+  font-family: 'Roboto Condensed', sans-serif; 
+}
+.intro{
+  background: black;
+  width: 100%;
+  height: 100vh;
+}
+.services{
+  background:black;
+  width: 100%;
+  height: 100%;
+}
+.agile-section{
+  background: #ddd9d9;
+  width: 100%;
+  height: 100%;
+}
+.who-we-are{
+  background: #ddd9d9;
+  width: 100%;
+  height: 100%;
+}
+.see-ours{
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+}
